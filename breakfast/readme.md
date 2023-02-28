@@ -3,6 +3,9 @@
 ## Servings: 
 
 ## Time to prepare: 
+Prep time: 5 minutes
+Cook time: 15 minutes
+Total time: 20 minutes
 
 ## Ingredients:
 
@@ -19,3 +22,8 @@
 
 
 ### Codemates #
+Chioma Ekedede
+Dara Batomunkueva
+Giovanni Rivera
+Katherine Zepeda Arreola
+Maelym Medina
