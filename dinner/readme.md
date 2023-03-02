@@ -5,7 +5,18 @@
 ## Time to prepare: 
 
 ## Ingredients:
-
+SAUCE
+- 3/4 cup sour cream
+- 3/4 cup salsa
+- 1 1/2 tablespoons taco seasoning
+WRAPS
+- 4 large tortillas (wrap size)
+- 1 1/3 cups shredded lettuce
+- 1/2 cup tomato, diced
+- 1 whole avocado, diced
+- 1/2 cup cheddar cheese, shredded
+- 2 cups cooked chicken, shredded
+- 1 cup Fritos, crushed
 
 ## Equipment needed:
 
