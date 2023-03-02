@@ -3,6 +3,9 @@
 ## Servings: 
 
 ## Time to prepare: 
+Prep time: 5 minutes
+Cook time: 15 minutes
+Total time: 20 minutes
 
 ## Ingredients:
 - 1 ½ cups all-purpose flour
@@ -26,3 +29,8 @@
 
 
 ### Codemates #
+Chioma Ekedede
+Dara Batomunkueva
+Giovanni Rivera
+Katherine Zepeda Arreola
+Maelym Medina
